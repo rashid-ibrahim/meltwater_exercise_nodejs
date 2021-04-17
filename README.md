@@ -5,10 +5,11 @@ Then to replace all occurrences of the words in the file.
 
 
 Installation Instructions:
-pass
+Run the command `npm install` from your terminal in the directory that you download the code into.
 
 Run Instructions:
-pass
+The access point for this program is the `server.js` file.
+To run the program type `node server.js`.
 
 The NodeJs server is currently set to run on localhost and port 8080.
 So to access the site go, after the server is running, go to localhost:8080
