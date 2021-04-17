@@ -1,0 +1,8 @@
+
+package-lock.json
+node_modules
+
+# Ignore the whole folder
+out_files/*
+# Need at least one file so the folder will get commited.
+!out_files/empty.txt
